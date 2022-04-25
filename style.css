@@ -258,7 +258,7 @@ h1 span{
 /*-------------------------------Hero------------------------------------------*/
 
 #hero {
-    background-image: url(/imges/Hintergrund.png);
+    background-image: url(imges/Hintergrund.png);
     background-size: cover;
     background-position: center 25px;
     position: relative;
