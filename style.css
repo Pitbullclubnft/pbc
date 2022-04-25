@@ -686,7 +686,7 @@ h1 span{
 }
 
 /*---------------------------------Media Query Tablet-----------------------------------*/
-@media only screen and (min-width:768px){
+@media only screen and (min-width:900px){
     .cta{
         font-size: 3rem;
         font-weight: 600;
